@@ -1,3 +1,4 @@
+```
 minikube start
 kubectl get pod
 kubectl apply -f mongo-config.yaml
@@ -10,5 +11,4 @@ kubectl get secret
 kubectl get svc
 minikube ip
 kubectl get node -o wide
-
-minikube service webapp-service
+```
